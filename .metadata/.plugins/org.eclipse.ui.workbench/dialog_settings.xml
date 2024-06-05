@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.m2e"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\Srinivas\SBMS001.zip"/>
+			<item value="E:\Srinivas\Constructor.zip"/>
+			<item value="E:\Srinivas\card-offers-service.zip"/>
+			<item value="E:\Srinivas\AutoWiring.zip"/>
+			<item value="E:\Srinivas\02-PaymentApplication.zip"/>
+			<item value="E:\Srinivas\01_Car-Application.zip"/>
+			<item value="E:\Srinivas\REST-CLIENT_WEBCLIENT-APP2.zip"/>
+			<item value="E:\Srinivas\REST-CLIENT_REST-TEMPLATE2.zip"/>
+			<item value="E:\Srinivas\BOOKS_API-1.zip"/>
+			<item value="E:\Srinivas\AdminServer.zip"/>
+			<item value="E:\Srinivas\IRCTC-APP.zip"/>
+			<item value="E:\Srinivas\IRCTC_RestAPI.zip"/>
+			<item value="E:\Srinivas\02_SPRING-WEB-MVC.zip"/>
+			<item value="E:\Srinivas\SprinngDataJPAOneToOne-AssMapping.zip"/>
+			<item value="E:\Srinivas\SprinngDataJPAOneToMany-AssMapping.zip"/>
+			<item value="E:\Srinivas\SJPA_Images-1.zip"/>
+			<item value="E:\Srinivas\03_SPRING-WEB-MVC.zip"/>
+			<item value="E:\Srinivas\SPRING-WEB-MVC.zip"/>
+			<item value="E:\Srinivas\Transaction.zip"/>
+			<item value="E:\Srinivas\FirstMavenProject.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+</section>

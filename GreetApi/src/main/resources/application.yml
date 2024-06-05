@@ -1,0 +1,12 @@
+eureka:
+  client:
+    register-with-eureka: true
+server:
+  port: 2525
+spring:
+  application:
+    name: GreetAPI
+  boot:
+    admin:
+      client:
+        url: http://localhost:1111

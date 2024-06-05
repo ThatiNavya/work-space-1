@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="dieselEngine" class="com.autowiring.DieselEngine"></bean>
+ 
+    <bean id="car" class="com.autowiring.Car" autowire="byName"></bean>
+ 
+    
+   <!-- 
+    <bean id="diesel" class="com.autowiring.DieselEngine"></bean>
+    
+     <bean id="petrolEngine" class="com.autowiring.PetrolEngine"></bean>
+ 
+    <bean id="car" class="com.autowiring.Car" >
+		<property name="dieselEngine" ref="diesel"></property>
+	</bean>
+    -->
+     <!--<bean id="xyz" class="com.autowiring.DieselEngine" autowire-candidate="false"></bean>
+     <bean id="abc" class="com.autowiring.DieselEngine"></bean>
+    
+    
+    <bean id="car" class="com.autowiring.Car" autowire="byType"></bean>-->
+
+</beans>

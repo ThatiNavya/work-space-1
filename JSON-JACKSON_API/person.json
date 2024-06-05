@@ -1,0 +1,12 @@
+{
+	"name": "Navya",
+	"email": "navya12@gmail.com",
+	"age": 24,
+	"location": "Hyderabad",
+	"book": {
+		"id": 52,
+		"name": "Brave New World",
+		"price": 1500.0,
+		"author": "Aldous Huxley"
+	}
+}

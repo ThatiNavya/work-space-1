@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SprinngDataJPAOneToMany&apos;&#x0D;&#x0A;- Original project: &apos;SprinngDataJPAOneToMany&apos;&#x0D;&#x0A;- Original element: &apos;SprinngDataJPAOneToMany/src/main/java/com.navyait.entity.repository&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.navyait.entity.repository" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.navyait.entity" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1699185415074" subPackages="false" version="1.0"/>
+</session>

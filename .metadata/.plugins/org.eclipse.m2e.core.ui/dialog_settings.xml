@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\navya\Documents\workspace_1\XML-CONVERTION"/>
+			<item value="C:\Users\navya\Documents\workspace_1\FirstMavenProject\src\main\java\springbean.xml"/>
+			<item value="C:\Users\navya\Documents\workspace_1\JSON-JACKSON_API"/>
+			<item value="C:\Users\navya\Documents\workspace_1\JPA_ManyToMany"/>
+			<item value="C:\Users\navya\Documents\workspace_1\card-offers-service"/>
+			<item value="C:\Users\navya\Documents\workspace_1\01_Car-Application"/>
+			<item value="C:\Users\navya\Documents\workspace_1\02-PaymentApplication"/>
+			<item value="C:\Users\navya\Documents\workspace_1\BeanLifeCycle"/>
+			<item value="C:\Users\navya\Documents\workspace_1\AutoWiring"/>
+			<item value="C:\Users\navya\Documents\workspace_1\FirstMavenProject"/>
+			<item value="C:\Users\navya\Documents\workspace_1\FirstMProject"/>
+			<item value="C:\Users\navya\Documents\workspace_1\SpringBootSampleProject\SpringBootSampleProject"/>
+			<item value="C:\Users\navya\Documents\workspace_1\SpringBootSampleProject\SpringBootSampleProject\src\main\java\com\example\SpringBootSampleProject\SpringBootSampleProjectApplication.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.navyait"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="XML_CONVERSION"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\navya\Documents\workspace_1\01_Car-Application"/>
+			<item value="C:\Users\navya\Documents\workspace_1\AutoWiring"/>
+			<item value="C:\Users\navya\Documents\workspace_1\09-SpingBoot-Task-Rest-MySQL_App"/>
+			<item value="C:\Users\navya\Documents\workspace_1\SpringBootSampleProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
